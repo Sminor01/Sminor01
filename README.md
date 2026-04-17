@@ -1,8 +1,4 @@
-👋 Hi, I’m @Sminor01
-
-<img src = "https://www.codewars.com/users/Sminor01/badges/large">
-
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; flex-wrap: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" />
